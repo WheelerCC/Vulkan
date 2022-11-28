@@ -19,7 +19,7 @@
 #if defined(__ANDROID__)
 #define OBJECT_COUNT 32
 #else
-#define OBJECT_COUNT 16
+#define OBJECT_COUNT 32
 #endif
 
 #define MAX_LOD_LEVEL 5
